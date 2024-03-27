@@ -1,1 +1,1 @@
-# real_sense_seg
+capturing RGB-D frames with real sense and segmenting images using ROS-2
